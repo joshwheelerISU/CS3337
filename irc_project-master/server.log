@@ -1,0 +1,442 @@
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !NICK me
+ received.
+SFD #4 set own nickname to #s.
+Client with SFD 5 Connected.
+
+
+
+Command !NICK otherme
+ received.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Command !NICK me
+ received.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !NICK me
+ received.
+SFD #4 set own nickname to NOTSET: .
+Beginning log of message hello
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Beginning log of message hello
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Command !NICK ke
+ received.
+SFD #4 set own nickname to me: .
+Beginning log of message hello
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Command !NICK testoflongnick
+ received.
+SFD #4 set own nickname to ke: .
+Beginning log of message hello
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Beginning log of message hey
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Command !HELP 
+ received.
+Command !ldfd
+ received.
+Command !HELP 3
+ received.
+Command !NICK te
+ received.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Command !NICK me
+ received.
+SFD #4 set own nickname to me: .
+Command !NICK notme
+ received.
+SFD #5 set own nickname to notme::  .
+Beginning log of message hello
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Beginning log of message hello
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Beginning log of message  from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2435
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !NICK me
+ received from SFD 4.
+SFD #4 set own nickname to me: .
+Beginning log of message finaltest
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Command !NICK cli2
+ received from SFD 5.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2435
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !NICK cli1
+ received from SFD 4.
+SFD #4 set own nickname to cli1: .
+Client with SFD 5 Connected.
+
+
+
+Command !NICK cli2
+ received from SFD 5.
+SFD #5 set own nickname to cli2: .
+Beginning log of message test
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Beginning log of message test
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Client with SFD 6 Connected.
+
+
+
+Command !NICK cli3
+ received from SFD 6.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2245
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2246
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Client with SFD 6 Connected.
+
+
+
+Command !NICK me
+ received from SFD 6.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2247
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Client with SFD 6 Connected.
+
+
+
+Command !NICK test
+ received from SFD 6.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2249
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !NICK me
+ received from SFD 4.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2241
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Beginning log of message test
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Beginning log of message test
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+
+
+
+Command !NICK 2
+ received from SFD 5.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2242
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Command !NICK cli2
+ received from SFD 5.
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2243
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Client with SFD 5 Connected.
+
+
+
+Client with SFD 6 Connected.
+
+
+
+Beginning log of message hey
+ from client SFD 6.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Command !NICK cli1
+ received from SFD 4.
+Command !NICK cli2
+ received from SFD 5.
+Command !NICK cli3
+ received from SFD 6.
+Beginning log of message hey
+ from client SFD 6.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Command !NICK cli11
+ received from SFD 4.
+Command !NICK cli22
+ received from SFD 5.
+Command !NICK cli33
+ received from SFD 6.
+Beginning log of message hey
+ from client SFD 6.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 5.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message hey
+ from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+Beginning log of message  from client SFD 4.
+Transmitting to SFD 4...Success!
+Transmitting to SFD 5...Success!
+Transmitting to SFD 6...Success!
+
+
+
+NEW INSTANCE=========================================== 
+Started server. Listening on port 2243
+
+
+
+Client with SFD 4 Connected.
+
+
+
+Command !HELP 
+ received from SFD 4.
+Command !HELP
+ received from SFD 4.
+Beginning log of message  from client SFD 4.
+Transmitting to SFD 4...Success!
+
+
+

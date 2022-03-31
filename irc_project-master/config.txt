@@ -1,0 +1,3 @@
+detailedlogging true;
+port 2245;
+junklinetest ;
