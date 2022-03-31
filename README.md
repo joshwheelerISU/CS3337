@@ -1,6 +1,6 @@
 # IRC DELIVERABLE ASSIGNMENT
 
-This is a basic IRC Server / Client set capable of facilitating conversation between remote clients.
+This is a basic IRC Server / Client set capable of facilitating conversation between remote clients. It uses sockets and POSIX threads for networking and multithreading, respectively.
 
 ## COMPILATION
 
